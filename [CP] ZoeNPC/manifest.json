@@ -1,0 +1,11 @@
+{
+    "Name": "Zoe NPC Mod",
+    "Author": "Pascal",
+    "Version": "1.0.0",
+    "Description": "Adds a custom NPC named Zoe to Stardew Valley.",
+    "UniqueID": "Pascal.ZoeNPC",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher",
+        "MinimumVersion": "1.26.0"
+    }
+}

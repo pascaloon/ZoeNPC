@@ -1,0 +1,35 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                "Zoe": {
+                    "DisplayName": "Zoe",
+                    "Gender": "Female",
+                    "Age": "Adult",
+                    "Manner": "Neutral",
+                    "SocialAnxiety": "Neutral",
+                    "Optimism": "Positive",
+                    "BirthSeason": "spring",
+                    "BirthDay": "14",
+                    "HomeRegion": "Town",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "HaleyHouse",
+                            "Tile": {
+                                "X": 4,
+                                "Y": 5
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

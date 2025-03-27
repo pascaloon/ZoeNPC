@@ -1,0 +1,31 @@
+{
+    "Format": "1.26.0",
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "assets/data/disposition.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Zoe",
+            "FromFile": "assets/images/zoe_sprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Zoe",
+            "FromFile": "assets/images/zoe_portraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Zoe",
+            "FromFile": "assets/data/dialogue.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Zoe": "Oh, my gosh, my favorite! How did you know I love spicy noodles? You're the best, @!$h/226/Thank you! I really like this./72 388/Um... thanks, I guess./80/This isn't really my taste...$u/167/Thanks./"
+            }
+        }
+    ]
+}
