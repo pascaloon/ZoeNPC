@@ -1,7 +1,10 @@
 {
-    "Introduction": "Oh, hello! You must be the new farmer. I'm Zoe. Nice to meet you!",
+    "Introduction": "Oh, hello! You must be the new farmer. I'm Zoë. Nice to meet you!#$q 101/102 random_fallback#Do you like spicy noodles?#$r 101 15 init_yes#Sure, I love spicy noodles!#$r 101 -15 init_no#Beurk!!",
+    "init_yes": "I LOVE SPICY NOODLES!!$h",
+    "init_no": "HOW DARE YOU!?$a",
+    "random_fallback": "random_fallback",
     "Mon": "Hi, @. How's your Monday going?#$e#I might cook something spicy later... it always cheers me up on rainy Mondays.",
     "Tue": "I heard the mines have some rare mushrooms this time of year. Pretty neat, huh?",
-    "spring": "The spring air feels refreshing. Perfect time for a bowl of spicy noodles!$h",
+    "Spring": "The spring air feels refreshing. Perfect time for a bowl of spicy noodles!$h",
     "Rainy_Day_0": "I love the sound of rain. It reminds me of home.$h#$e#Just missing a good book and some noodles to complete the mood."
 }

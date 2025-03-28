@@ -5,7 +5,7 @@
             "Target": "Data/Characters",
             "Entries": {
                 "Zoe": {
-                    "DisplayName": "Zoe",
+                    "DisplayName": "Zoë",
                     "Gender": "Female",
                     "Age": "Adult",
                     "Manner": "Neutral",
@@ -20,10 +20,10 @@
                     "Home": [
                         {
                             "Id": "Default",
-                            "Location": "HaleyHouse",
+                            "Location": "Farm",
                             "Tile": {
-                                "X": 4,
-                                "Y": 5
+                                "X": 61,
+                                "Y": 19
                             },
                             "Direction": "down"
                         }
